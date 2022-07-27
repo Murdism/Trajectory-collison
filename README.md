@@ -1,4 +1,4 @@
-# Trajectory-collison
+# Trajectory-intersection
 This code detects collison between multiline trajectories. It can take any size of trajectries.
 Here a trajectory is a collection of points or connected segments.
 The class trajectory allows the user to create different sizes of trajectories.
